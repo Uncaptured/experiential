@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{AE71CB25-7FF7-A957-EDF9-FD748FE9D50C}</ProjectGuid>
+    <ProjectGuid>{FD550DC6-05A4-B8DD-0CC2-1A078CB4F886}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.FPS.Tutorials</AssemblyName>
@@ -734,7 +734,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="NavMeshComponents.csproj">
-      <Project>{C805B0C6-BA1C-684C-66A3-6971DA60152E}</Project>
+      <Project>{E426F7EF-14D2-CF49-B846-0318E37D8534}</Project>
       <Name>NavMeshComponents</Name>
     </ProjectReference>
   </ItemGroup>
